@@ -44,7 +44,7 @@
 								<li role="presentation"><a href="services.html">Services</a></li>								
 								<li role="presentation"><a href="portfolio.html">Portfolio</a></li>
 								<li role="presentation"><a href="blog.html" class="active">Blog</a></li>
-								<li role="presentation"><a href="contact.html">Contact</a></li>						
+								<li role="presentation"><a href="contact.html">Contact Us</a></li>						
 							</ul>
 						</div>
 					</div>						
