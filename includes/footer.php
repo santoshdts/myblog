@@ -15,7 +15,7 @@
 				
 				<div class="col-md-4 col-md-offset-4">
 					<div class="copyright">
-						&copy; April  2018 by <a target="_blank" href="http://bootstraptaste.com/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">My Blogs</a>. All Rights Reserved.
+						&copy; May  2018 by <a target="_blank" href="http://bootstraptaste.com/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">My Blogs</a>. All Rights Reserved.
 					</div>
                     <!-- 
                         All links in the footer should remain intact. 
