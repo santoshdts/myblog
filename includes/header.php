@@ -41,7 +41,8 @@
 							<ul class="nav nav-tabs" role="tablist">
 								<li role="presentation"><a href="index.html">Home</a></li>
 								<li role="presentation"><a href="about.html">About Us</a></li>
-								<li role="presentation"><a href="services.html">Services</a></li>								
+								<li role="presentation"><a href="services.html">Services</a></li>
+								<li role="presentation"><a href="services.html">Products</a></li>								
 								<li role="presentation"><a href="portfolio.html">Portfolio</a></li>
 								<li role="presentation"><a href="blog.html" class="active">Blog</a></li>
 								<li role="presentation"><a href="contact.html">Contact Us</a></li>						
