@@ -32,7 +32,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<div class="navbar-brand">
-							<a href="index.html"><h1><span>Com</span>pany</h1></a>
+							<a href="index.html"><h1><span>DREAMZ</span>TECH</h1></a>
 						</div>
 					</div>
 					
