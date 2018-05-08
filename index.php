@@ -19,6 +19,7 @@
                                 <a href="#"><img class="img-responsive img-blog" src="images/blog/blog1.jpg" width="100%" alt="" /></a>
                                 <h4>Consequat bibendum quam liquam viverra</h4>
                                 <p>Curabitur quis libero leo, pharetra mattis eros. Praesent consequat libero eget dolor convallis vel rhoncus magna scelerisque. Donec nisl ante, elementum eget posuere a, consectetur a metus. Proin a adipiscing sapien. Suspendisse vehicula porta lectus vel semper. Nullam sapien elit, lacinia eu tristique non.posuere at mi. Morbi at turpis id urna ullamcorper ullamcorper.</p>
+                                <p>Your Aadhaar card could soon become mandatory to book railway tickets if the recommendation of a new railway report is implemented. According to the joint report, prepared by Sunil Kumar, group general manager (IT), IRCTC, and Vinod Bhatia, general manager, PRS, CRIS, all 6,449 IDs which were used to generate the 6,603 seized PNRs have been deactivated. Apart from that, 1,510 similar other user IDs were also deactivated. </p>
                                 <a class="btn btn-primary readmore">Read More <i class="fa fa-angle-right"></i></a>
                             </div>
                         </div>    
